@@ -15,7 +15,7 @@ nodebb-email-messages
 
 当掲示板についてのご意見、ご質問などは、掲示板内の専用フォーラムに投稿していただくか、
 サポート用アドレス
-sup@costcobb@gmail.com
+sup.costcobb@gmail.com
 までメールをお送りいただくようお願いします。
 
 {site_title}
