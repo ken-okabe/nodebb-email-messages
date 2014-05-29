@@ -82,4 +82,10 @@ sup.costcobb@gmail.com
 
 
 
-
+<footer id="footer" class="container footer">
+	<div class="copyright">
+<a href="mailto:sup.costcobb@gmail.com">サポートMAIL</a>
+<br>
+		Copyright © 2014 コストコ！みんなのクチコミ掲示版
+	</div>
+</footer>
